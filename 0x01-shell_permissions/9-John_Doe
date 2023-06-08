@@ -1,2 +1,2 @@
 #!/bin/bash
-umask 013 hello
+umask 0753 hello
